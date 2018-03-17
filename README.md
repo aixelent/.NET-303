@@ -14,8 +14,8 @@ $ dotnet run
 - 001 - Check if the number is even or odd.
 - 002 - Swap two given values with temporary variable.
 - 003 - Swap two given values without temporary variable.
-- 004 - 
-- 005 - 
+- 004 - Get a number and display sum of the digits.
+- 005 - Get a number and display it from behind (reverse).
 - 006 - 
 - 007 - 
 - 008 - 
