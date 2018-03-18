@@ -16,8 +16,8 @@ $ dotnet run
 - 003 - Swap two given values without temporary variable.
 - 004 - Get a number and display sum of the digits.
 - 005 - Get a number and display it from behind (reverse).
-- 006 - 
-- 007 - 
+- 006 - Generate random value in the range 0 - 100.
+- 007 - Create static random generator (standard library)
 - 008 - 
 - 009 - 
 - 010 - 
