@@ -18,8 +18,8 @@ $ dotnet run
 - 005 - Get a number and display it from behind (reverse).
 - 006 - Generate random value in the range 0 - 100.
 - 007 - Create static random generator (standard library)
-- 008 - 
-- 009 - 
-- 010 - 
-- 011 - 
+- 008 - Check if the year is a leap year. 
+- 009 - Display date in many different formats.
+- 010 - Compare two dates.
+- 011 - Simple console calculator: Add, substract, multiply and divide two numbers taken from input.
 
