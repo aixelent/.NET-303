@@ -22,4 +22,14 @@ $ dotnet run
 - 009 - Display date in many different formats.
 - 010 - Compare two dates.
 - 011 - Simple console calculator: Add, substract, multiply and divide two numbers taken from input.
+- 012 - Print average of three numbers.
+- 013 - Reverse given string.
+- 014 - Check if both two values are positive.
+- 015 - Compute sum of two given values. If values are equal - return taken integers multiplied by 9.
+- 016 - 
+- 017 - 
+- 018 - 
+- 019 - 
+- 020 - 
+- 021 - 
 
