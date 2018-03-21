@@ -1,0 +1,10 @@
+/home/theacid/Dropbox/Github/net/012/bin/Debug/netcoreapp2.0/012.deps.json
+/home/theacid/Dropbox/Github/net/012/bin/Debug/netcoreapp2.0/012.runtimeconfig.json
+/home/theacid/Dropbox/Github/net/012/bin/Debug/netcoreapp2.0/012.runtimeconfig.dev.json
+/home/theacid/Dropbox/Github/net/012/bin/Debug/netcoreapp2.0/012.dll
+/home/theacid/Dropbox/Github/net/012/bin/Debug/netcoreapp2.0/012.pdb
+/home/theacid/Dropbox/Github/net/012/obj/Debug/netcoreapp2.0/012.csproj.CoreCompileInputs.cache
+/home/theacid/Dropbox/Github/net/012/obj/Debug/netcoreapp2.0/012.AssemblyInfoInputs.cache
+/home/theacid/Dropbox/Github/net/012/obj/Debug/netcoreapp2.0/012.AssemblyInfo.cs
+/home/theacid/Dropbox/Github/net/012/obj/Debug/netcoreapp2.0/012.dll
+/home/theacid/Dropbox/Github/net/012/obj/Debug/netcoreapp2.0/012.pdb
