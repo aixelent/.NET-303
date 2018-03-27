@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "/home/theacid/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\theacid\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/theacid/Dropbox/Github/net/013/013.csproj",
+      "projectUniqueName": "d:\\Dropbox\\C#-Workspace\\.NET-303\\013\\013.csproj",
       "projectName": "013",
-      "projectPath": "/home/theacid/Dropbox/Github/net/013/013.csproj",
-      "packagesPath": "/home/theacid/.nuget/packages/",
-      "outputPath": "/home/theacid/Dropbox/Github/net/013/obj/",
+      "projectPath": "d:\\Dropbox\\C#-Workspace\\.NET-303\\013\\013.csproj",
+      "packagesPath": "C:\\Users\\theacid\\.nuget\\packages\\",
+      "outputPath": "d:\\Dropbox\\C#-Workspace\\.NET-303\\013\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/theacid/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\theacid\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -704,7 +704,7 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
           }
         },
