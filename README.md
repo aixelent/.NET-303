@@ -26,9 +26,9 @@ $ dotnet run
 - 013 - Reverse given string.
 - 014 - Check if both two values are positive.
 - 015 - Compute sum of two given values. If values are equal - return taken integers multiplied by 9.
-- 016 - 
-- 017 - 
-- 018 - 
+- 016 - Print odd numbers from 0 to 999.
+- 017 - Print even numbers from 0 to 999.
+- 018 - Sum first 100 digits.
 - 019 - 
 - 020 - 
 - 021 - 
