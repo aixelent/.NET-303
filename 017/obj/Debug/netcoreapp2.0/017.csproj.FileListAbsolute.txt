@@ -1,0 +1,10 @@
+D:\Dropbox\C#-Workspace\.NET-303\017\obj\Debug\netcoreapp2.0\017.csproj.CoreCompileInputs.cache
+D:\Dropbox\C#-Workspace\.NET-303\017\obj\Debug\netcoreapp2.0\017.AssemblyInfoInputs.cache
+D:\Dropbox\C#-Workspace\.NET-303\017\obj\Debug\netcoreapp2.0\017.AssemblyInfo.cs
+D:\Dropbox\C#-Workspace\.NET-303\017\bin\Debug\netcoreapp2.0\017.deps.json
+D:\Dropbox\C#-Workspace\.NET-303\017\bin\Debug\netcoreapp2.0\017.runtimeconfig.json
+D:\Dropbox\C#-Workspace\.NET-303\017\bin\Debug\netcoreapp2.0\017.runtimeconfig.dev.json
+D:\Dropbox\C#-Workspace\.NET-303\017\bin\Debug\netcoreapp2.0\017.dll
+D:\Dropbox\C#-Workspace\.NET-303\017\bin\Debug\netcoreapp2.0\017.pdb
+D:\Dropbox\C#-Workspace\.NET-303\017\obj\Debug\netcoreapp2.0\017.dll
+D:\Dropbox\C#-Workspace\.NET-303\017\obj\Debug\netcoreapp2.0\017.pdb
