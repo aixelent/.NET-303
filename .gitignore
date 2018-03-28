@@ -9,6 +9,7 @@
 *.user
 *.userosscache
 *.sln.docstates
+*.vscode
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -54,7 +55,7 @@ project.lock.json
 project.fragment.lock.json
 artifacts/
 **/Properties/launchSettings.json
-
+*/obj/*
 # StyleCop
 StyleCopReport.xml
 
