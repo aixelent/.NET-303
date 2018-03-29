@@ -57,7 +57,7 @@ project.fragment.lock.json
 artifacts/
 **/Properties/launchSettings.json
 */obj/*
-obj/
+obj/Debug
 # StyleCop
 StyleCopReport.xml
 
