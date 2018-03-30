@@ -7,7 +7,7 @@ namespace _023
         static void Main(string[] args)
         {
             Console.WriteLine("Decimal to binary converter. Type a number: ");
-            Console.WriteLine(Convert.ToString(Convert.ToInt32("Binary: " + Console.ReadLine()), 2));
+            Console.WriteLine("Binary: " + Convert.ToString(Convert.ToInt32(Console.ReadLine()), 2));
         }
     }
 }
