@@ -29,7 +29,25 @@ $ dotnet run
 - 016 - Print odd numbers from 0 to 999.
 - 017 - Print even numbers from 0 to 999.
 - 018 - Sum first 100 digits.
-- 019 - 
-- 020 - 
-- 021 - 
-
+- 019 - Sum entered digits.
+### For example
+````
+Input: 159
+Output: 15
+````
+- 020 - Reverse given string.
+- 021 - Display file size in: bytes, kilobytes, megabytes.
+- 022 - Hxadecimal to decimal converter.
+#### For example
+````
+Input: 425D0F
+Output: 4349199
+````
+- 023 - Decimal to binary converter.
+- 024 - Check if string contains a specified word.
+- 025 - Check if string starts from a specified word. If yes return true. If not return false.
+- 026 - 
+- 027 - 
+- 028 - 
+- 029 -     
+- 030 - 
